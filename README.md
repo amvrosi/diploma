@@ -1,9 +1,5 @@
 # RentaTool
 RentaTool is website for renting tools and equipment for construction works.
-## Running
-1. git clone https://github.com/amvrosi/dyploma
-2. manually create .env file
-3. php artisan serve.
 
 ## Authentication
 Laravel's Authentication was used for processes like authentication, saving users' information and authorization.
